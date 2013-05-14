@@ -1,9 +1,3 @@
-### NodeClub Wiki
-  
-  
-  
-  
-关于安装, 可以参考这里:  
-使用Jscex改进Node Club（1）：运行Node Club网站  
-2012-02-20 06:24 by 老赵  
-http://blog.zhaojie.me/2012/02/jscexify-nodeclub-1-prepare-nodeclub-website.html
+[CNode 论坛精华](https://github.com/cnodejs/nodeclub/wiki/CNode-%E8%AE%BA%E5%9D%9B%E7%B2%BE%E5%8D%8E)
+
+[怎样运行 nodeclub](https://github.com/cnodejs/nodeclub/wiki/_pages)
