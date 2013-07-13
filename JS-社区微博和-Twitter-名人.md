@@ -1,4 +1,5 @@
-微博:
+微博
+------
 
 * [Python发烧友](http://weibo.com/81715239)
 
@@ -50,3 +51,84 @@
 
 * [寸志](http://weibo.com/chromeappsstore)
 
+* [神飞](http://weibo.com/mienflying)
+
+Twitter
+------
+
+
+[Tim Caswell](https://twitter.com/creationix) JS-Git
+
+[Axel Rauschmayer](https://twitter.com/rauschma) 2alilyJS
+
+[Armin Ronacher](https://twitter.com/mitsuhiko) Mozilla
+
+[Firefox Nightly](https://twitter.com/FirefoxNightly)
+
+[Echo JS](https://twitter.com/echojs)
+
+[Dev Tool Secrets](https://twitter.com/devtoolsecrets)
+
+[Laura Doktorova](https://twitter.com/olado) doT 作者, 女程序员
+
+[Forbes Lindesay](https://twitter.com/ForbesLindesay) 维护 Jade
+
+[Jamie](https://twitter.com/jamiebikies) Yoleo 阅读器作者, 女程序员
+
+[Steven Wittens](https://twitter.com/unconed) MaxBox, TermKit 作者, fold julia 动画的作者
+
+[zedshaw](https://twitter.com/zedshaw) Python 社区牛人
+
+[Jeff Atwood](https://twitter.com/codinghorror) StackOverflow, disclosure 作者
+
+[Saito](https://twitter.com/SaitoWu) Ruby 中文社区的大牛
+
+[李华顺](https://twitter.com/huacnlee) Ruby China
+
+[Hephaestion](https://twitter.com/night_song) Ruby China.. 这一节里唯一当面扯过的一位大神, 不知道怎么介绍
+
+[Eric Xu (徐宥)](https://twitter.com/mathena)
+
+[mathematical.coffee](https://twitter.com/mathematicoffee) GNOME3 window Grids 扩展作者
+
+[安动生](https://twitter.com/undoZen) 雪球前端..以前
+
+[Sindre Sorhus](https://twitter.com/sindresorhus) Bower, Grunt, Yeoman 社区很活跃的
+
+[Paul Irish](https://twitter.com/paul_irish) 常在 Google IO 讲 Chrome 的大神
+
+[Ilya Grigorik](https://twitter.com/igrigorik) Google 员工..?
+
+[Rasmus Andersson](https://twitter.com/rsms) Move 语言和 Hue 语言作者, 前 Facebook 员工
+
+[Brian McKenna](https://twitter.com/puffnfresh) Roy 语言大神, 熟悉 Haskell
+
+[Steve Dekorte](https://twitter.com/stevedekorte) Io 语言作者,
+
+[Paul Miller](https://twitter.com/paulmillr) Brunch, Chaplin 框架作者
+
+[George Zahariev](https://twitter.com/gkzahariev) LiveScript 作者
+
+[Ben Francis](https://twitter.com/bfrancis) Mozilla 工程师
+
+[Mr.dò_ób](https://twitter.com/mrdoob) ThreeJS 作者
+
+[David Herman](https://twitter.com/littlecalculist) EffectiveJS 作者
+
+[Chris Granger](https://twitter.com/ibdknox) LighTable 作者
+
+[Qiao](https://twitter.com/xqunix) 中山大学学生, 该毕业了
+
+[TJ Holowaychuk](https://twitter.com/tjholowaychuk) TJ 大神
+
+[唐鳳](https://twitter.com/audreyt)
+
+[isaacs](https://twitter.com/izs) Node 仓库 maintainer
+
+[BrendanEich](https://twitter.com/BrendanEich) 这名字必须知道吧
+
+[James Halliday](https://twitter.com/substack) Browserify 作者
+
+[Jeremy Ashkenas](https://twitter.com/jashkenas) CoffeeScript, Backbone 作者
+
+[Misko Hevery](https://twitter.com/mhevery) AngularJS
