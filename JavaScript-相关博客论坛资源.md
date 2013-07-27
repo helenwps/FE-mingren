@@ -1,0 +1,18 @@
+论坛分享
+------
+
+* [EchoJS](http://www.echojs.com/)
+* [前端界](http://qianduan.us/latest)
+
+博客聚合
+------
+
+* [DailyJS](http://dailyjs.com/)
+* [CoderWall](https://coderwall.com/)
+
+个人博客
+------
+
+* [2ality](http://www.2ality.com/)
+* [Caolan McMahon: Developer, Director at Ground Computing](http://caolanmcmahon.com/)
+* [Paul Irish: I make the www fun.](http://www.paulirish.com/)
