@@ -16,3 +16,4 @@
 * [2ality](http://www.2ality.com/)
 * [Caolan McMahon: Developer, Director at Ground Computing](http://caolanmcmahon.com/)
 * [Paul Irish: I make the www fun.](http://www.paulirish.com/)
+* [Addy Osmani](http://addyosmani.com/blog/)
