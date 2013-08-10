@@ -17,3 +17,6 @@
 * [Caolan McMahon: Developer, Director at Ground Computing](http://caolanmcmahon.com/)
 * [Paul Irish: I make the www fun.](http://www.paulirish.com/)
 * [Addy Osmani](http://addyosmani.com/blog/)
+* [Isaac Z. Schlueter](http://blog.izs.me/)
+* [TJ Holowaychuk](http://tjholowaychuk.com/)
+* [substack](http://substack.net/)
