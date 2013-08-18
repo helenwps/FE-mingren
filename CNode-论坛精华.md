@@ -1,7 +1,8 @@
 教程资源
 ------
 
-
+* [Bower 解决 JS 的依赖管理](http://blog.fens.me/nodejs-bower-intro/)
+* [Grunt 让 Node.js 规范起来](http://blog.fens.me/nodejs-grunt-intro/)
 
 技术答疑
 ------
