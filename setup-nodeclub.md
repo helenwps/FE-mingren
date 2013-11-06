@@ -12,7 +12,7 @@ https://github.com/cnodejs/nodeclub/issues/194
 
 * 预备 Node, MongoDB 环境, Unix(Mac, Linux 等) 环境更好..
 * 一个邮箱用来发送激活邮件等..
-* `cp config.default.js config.js` 并且编辑 `config.js` 加入虚词的配置
+* `cp config.default.js config.js` 并且编辑 `config.js` 加入配置
 * `make build` 生成一些静态资源
 * 启动 MongoDB 和 `node app.js` 启动论坛
 * 注册名为 `admin` 的账户, 触发管理员权限
