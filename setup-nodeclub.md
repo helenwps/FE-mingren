@@ -11,9 +11,9 @@ https://github.com/cnodejs/nodeclub/issues/194
 ### 大致流程
 
 * 预备 Node, MongoDB 环境, Unix(Mac, Linux 等) 环境更好..
-* 一个邮箱用来发送激活邮件等..
+* 一个邮箱用来发送激活邮件等..(使用 Github 帐号的话也许用不着.. 不详)
+* 到 [GitHub](https://github.com/settings/applications) 注册应用, 获取稍后填写到 config 的 clientID 等密钥
 * `cp config.default.js config.js` 并且编辑 `config.js` 加入配置
 * `make build` 生成一些静态资源
 * 启动 MongoDB 和 `node app.js` 启动论坛
-* 注册名为 `admin` 的账户, 触发管理员权限
-
+* 注册名为 `admin` 的账户, 激活管理员权限
