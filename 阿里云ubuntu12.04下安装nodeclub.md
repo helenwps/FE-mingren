@@ -123,3 +123,6 @@
     启动程序
     
 在浏览器中访问一下 你的域名或ip:端口号，如果能看到NodeClub空白站点，则表示网站已经安装成功。
+
+
+内容来源：[http://wannianchuan.net/](http://wannianchuan.net/)
