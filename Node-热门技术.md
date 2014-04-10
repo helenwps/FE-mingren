@@ -1,6 +1,17 @@
 国外
 ======
 
+koa
+------
+
+新一代基于 generator 的 web 框架
+
+* [官网](http://koajs.com/)
+* [github](https://github.com/koajs/koa)
+* [wiki](https://github.com/koajs/koa/wiki)
+* [中文文档](https://github.com/turingou/koa-guide)
+* [generator, co 与 koa](https://github.com/dead-horse/co-and-koa-talk)
+
 Socket.IO
 ------
 
