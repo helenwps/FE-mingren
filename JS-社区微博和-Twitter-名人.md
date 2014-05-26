@@ -57,6 +57,8 @@
 
 * [Houfeng](http://weibo.com/houfeng)
 
+* [機巧死月不會碼代碼](http://weibo.com/xadillax)
+
 Twitter
 ------
 
