@@ -1,9 +1,8 @@
-
 入门教程
 ------
 
 * [Node 入门](http://www.nodebeginner.org/index-zh-cn.html)
-* [Node.js 台灣社群協作電子書](http://book.nodejs.tw/)
+* [Node.js 台灣社群協作電子書](https://github.com/nodejs-tw/nodejs-wiki-book)
 
 书籍
 ------
