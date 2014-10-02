@@ -1,4 +1,4 @@
-## Node.js 入门资料
+## Node.js 入门
 
 《Node入门-_一本全面的Node.js教程_》 
 
@@ -8,9 +8,11 @@ http://www.nodebeginner.org/index-zh-cn.html
 
 http://fengmk2.cnpmjs.org/blog/2014/03/node-env-and-faster-npm.html
 
-## Node.js 依赖与资源推荐
+## Node.js 资源
 
 https://github.com/sindresorhus/awesome-nodejs
+
+https://nodejsmodules.org/
 
 ## Node.js 书籍
 
