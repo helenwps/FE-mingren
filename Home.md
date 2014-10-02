@@ -8,6 +8,9 @@ http://www.nodebeginner.org/index-zh-cn.html
 
 http://fengmk2.cnpmjs.org/blog/2014/03/node-env-and-faster-npm.html
 
+## Node.js 依赖与资源推荐
+
+https://github.com/sindresorhus/awesome-nodejs
 
 ## Node.js 书籍
 
