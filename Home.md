@@ -10,11 +10,17 @@ http://fengmk2.cnpmjs.org/blog/2014/03/node-env-and-faster-npm.html
 
 ## Node.js 资源
 
+A curated list of delightful Node.js packages and resources.
+
 https://github.com/sindresorhus/awesome-nodejs
+
+NODE.JS MODULES
 
 https://nodejsmodules.org/
 
 ## Node.js 书籍
+
+Node.js Books
 
 https://github.com/pana/node-books
 
