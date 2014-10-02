@@ -26,4 +26,6 @@ https://github.com/pana/node-books
 
 ## Node.js 名人
 
+Node.js 社区的名人
+
 https://github.com/cnodejs/nodeclub/wiki/%E5%90%8D%E4%BA%BA
